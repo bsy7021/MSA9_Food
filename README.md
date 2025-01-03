@@ -1,4 +1,4 @@
-# 🏋️ **프로젝트 : 핏넥서스**
+# 🏋️ **프로젝트 : 흑백요리사**
 
 ![jsp메인](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2Fb4066578-54e8-4bcf-8f75-6376715488be%2Fimage.png?table=block&id=169902bd-b12f-80a8-b29f-e924b19eafc0&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1060&userId=&cache=v2)
 
