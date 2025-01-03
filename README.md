@@ -54,7 +54,9 @@
 
 <details>
   <summary><h2>🛠️ <strong>개발 환경</strong></h2></summary>
-  
+    
+  ![개발환경](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F233c52b9-dd2a-40b5-b82f-f01051a7ff90%2Fimage.png?table=block&id=16b902bd-b12f-808a-bf0c-d468c230c0a4&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
+
 
 </details>
 
