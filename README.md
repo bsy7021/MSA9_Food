@@ -44,16 +44,11 @@
 ---
 
 ## 🗓️ **프로젝트 기간**
-###  **2024-11-27 ~ 2024-12-13**
+###  **2024-10-21 ~ 2024-10-30**
 
 ---
- ## 🚀 **프로젝트 수행 절차**
- ### <span style="color:#FF5733;">1️⃣</span> **주제선정 및 기획 의도 선정**  
- ### <span style="color:#33A1FF;">2️⃣</span> **요구사항, 기능 정의서 작성, 피그마 화면 설계**  
- ### <span style="color:#33FF57;">3️⃣</span> **ERD 설계 DB, 프로젝트 구조 구축**  
- ### <span style="color:#FF33F6;">4️⃣</span> **개발 및 테스트**  
- ### <span style="color:#FFD700;">5️⃣</span> **수정 및 확정, 결과보고서 작성**
-
+ ## 🚀 **프로젝트 개발 절차**
+![개발절차](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F5ba792e6-8349-4ad1-91fc-b9ac85dffce9%2Fimage.png?table=block&id=169902bd-b12f-80d6-a723-daccfeff7303&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
 
 ---
 
