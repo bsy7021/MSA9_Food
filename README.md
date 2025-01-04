@@ -83,21 +83,21 @@
 
 ### 🗂️ **ERD**  
 
-[![ERD](https://drive.google.com/thumbnail?id=161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK)](https://drive.google.com/file/d/161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK/view?usp=drive_link)  
+[![ERD](https://drive.google.com/uc?export=view&id=161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK)](https://drive.google.com/file/d/161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK/view?usp=drive_link)
 
 ---
 
 <details>
 <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
 
-[![테이블 정의서 1](https://drive.google.com/thumbnail?id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
-[![테이블 정의서 2](https://drive.google.com/thumbnail?id=1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_)](https://drive.google.com/file/d/1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_/view?usp=drive_link)  
-[![테이블 정의서 3](https://drive.google.com/thumbnail?id=1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
-[![테이블 정의서 4](https://drive.google.com/thumbnail?id=1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG)](https://drive.google.com/file/d/1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG/view?usp=drive_link)  
-[![테이블 정의서 5](https://drive.google.com/thumbnail?id=1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa)](https://drive.google.com/file/d/1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa/view?usp=drive_link)  
-[![테이블 정의서 6](https://drive.google.com/thumbnail?id=12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j)](https://drive.google.com/file/d/12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j/view?usp=drive_link)  
-[![테이블 정의서 7](https://drive.google.com/thumbnail?id=1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF)](https://drive.google.com/file/d/1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF/view?usp=drive_link)  
- 
+[![테이블 정의서 1](https://drive.google.com/uc?export=view&id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
+[![테이블 정의서 2](https://drive.google.com/uc?export=view&id=1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_)](https://drive.google.com/file/d/1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_/view?usp=drive_link)  
+[![테이블 정의서 3](https://drive.google.com/uc?export=view&id=1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
+[![테이블 정의서 4](https://drive.google.com/uc?export=view&id=1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG)](https://drive.google.com/file/d/1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG/view?usp=drive_link)  
+[![테이블 정의서 5](https://drive.google.com/uc?export=view&id=1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa)](https://drive.google.com/file/d/1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa/view?usp=drive_link)  
+[![테이블 정의서 6](https://drive.google.com/uc?export=view&id=12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j)](https://drive.google.com/file/d/12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j/view?usp=drive_link)  
+[![테이블 정의서 7](https://drive.google.com/uc?export=view&id=1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF)](https://drive.google.com/file/d/1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF/view?usp=drive_link)
+
 </details>
 
 
