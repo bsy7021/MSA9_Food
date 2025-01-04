@@ -66,6 +66,9 @@
 
 ### 📑 **요구사항 정의서**  
 
+   ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
+
+
 - [![요구사항 정의서 1](https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
 [![요구사항 정의서 2](https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD)](https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link)  
 
