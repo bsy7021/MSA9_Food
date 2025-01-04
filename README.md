@@ -89,7 +89,7 @@
 ---
 
 <details>
-<summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
+# <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
 
 **user**  
 [![테이블 정의서 1](https://drive.google.com/uc?export=view&id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
