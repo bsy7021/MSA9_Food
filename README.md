@@ -65,7 +65,7 @@
 
 
 
-## 📑 **요구사항 정의서**  
+ <summary><h2>📑 <strong>요구사항 정의서</strong></h2></summary>  
 
 
 [![요구사항 정의서 1](https://drive.google.com/uc?export=view&id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
@@ -74,7 +74,7 @@
 
 ---
 
-### 🗒️ **기능 정의서**  
+ <summary><h2>🗒️ <strong>기능 정의서</strong></h2></summary>    
 
 [![기능 정의서 1](https://drive.google.com/uc?export=view&id=1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf)](https://drive.google.com/file/d/1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf/view?usp=drive_link)  
 [![기능 정의서 2](https://drive.google.com/uc?export=view&id=1djflPKozEVe6wXVl7314htTsYrzCCUdG)](https://drive.google.com/file/d/1djflPKozEVe6wXVl7314htTsYrzCCUdG/view?usp=drive_link)  
@@ -82,7 +82,7 @@
 
 ---
 
-### 🗂️ **ERD**  
+ <summary><h2> 🗂️ <strong>ERD</strong></h2></summary>      
 
 [![ERD](https://drive.google.com/uc?export=view&id=161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK)](https://drive.google.com/file/d/161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK/view?usp=drive_link)
 
