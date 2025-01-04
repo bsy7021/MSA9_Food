@@ -121,58 +121,55 @@
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
-
   
+[![이미지 미리보기](https://drive.google.com/uc?export=view&id=1wRbaBdBxE439T64Mw8oG5yKLNDDJcbnu)](https://drive.google.com/file/d/1wRbaBdBxE439T64Mw8oG5yKLNDDJcbnu/view?usp=drive_link)  
+[![이미지 미리보기](https://drive.google.com/uc?export=view&id=1Eme3jNpMQl_Ky77yapQ8DmKom0KXecut)](https://drive.google.com/file/d/1Eme3jNpMQl_Ky77yapQ8DmKom0KXecut/view?usp=drive_link)  
+[![이미지 미리보기](https://drive.google.com/uc?export=view&id=1z--dELmziqQsJiClEI1cG5LO65XsODfI)](https://drive.google.com/file/d/1z--dELmziqQsJiClEI1cG5LO65XsODfI/view?usp=drive_link)
+
 </details>
 
 
 
 
+
 <details>
-  <summary>👨‍💻<h3><strong>사용자</strong></h3></summary>
+  <summary>👨‍💻<h3><strong>상세</strong></h3></summary>
+
+  https://drive.google.com/file/d/122SYKekHvN5XSaoSVgh3dlSBAJTlB7no/view?usp=drive_link
+  https://drive.google.com/file/d/1kiZevtvcOTYHj60VSpq5OO_qs8ISNTD2/view?usp=drive_link
+  https://drive.google.com/file/d/1zyM3taLkEwBkXPadVYUqfhWFvIZukqOQ/view?usp=drive_link
   
+ 
+</details>
+
+
+
+<details>
+    <summary><h3>🛒사용자</h3></summary>
+
+    
+ https://drive.google.com/file/d/1hEbbb6bXm5P3jnqIBk2VdN2RBGX0OKSg/view?usp=drive_link
+ https://drive.google.com/file/d/1g6m8V0RC84uJZpw70dTBhEQk0fUNi52l/view?usp=drive_link
+ https://drive.google.com/file/d/1j4HWSyCASneG7curMQy32Ypu5fWNVizr/view?usp=drive_link
+ https://drive.google.com/file/d/13bndSG5Fh4dU_kDBfwJYn4cpnohnNRHv/view?usp=drive_link
+  https://drive.google.com/file/d/13bndSG5Fh4dU_kDBfwJYn4cpnohnNRHv/view?usp=drive_link
  
   
 </details>
 
 
 
-
-
 <details>
-    <summary><h3>🛒구매</h3></summary>
-  
- 
-  
-</details>
+   <summary><h3>📝관리자</h3></summary>
 
-
-
-<details>
-   <summary><h3>📝게시판</h3></summary>
-
-
-
-</details>
-
-
-
-
-
-
-<details>
-  <summary><h3>🗓️운동계획표</h3></summary>
-
-
-</details>
-
-
-
-
-
-<details>
-  <summary><h3>🛠️<strong>관리자</strong></h3></summary>
-
+   https://drive.google.com/file/d/1molEXaLT6HpWF3wn3O1pAEzBuEPaZeWI/view?usp=drive_link
+   https://drive.google.com/file/d/1_P82zlXF4huS7xwe5xdvz3vU76CjFoMF/view?usp=drive_link
+   https://drive.google.com/file/d/16UeQLPabuig_21BmRGHNuaM6qEWc21LV/view?usp=drive_link
+   https://drive.google.com/file/d/1Say6U_LZtdT1iMgJRG_oB97WBDdnveEC/view?usp=drive_link
+   https://drive.google.com/file/d/1bA1X7L-APlTN1jDA26gGIag9UJQUDWUU/view?usp=drive_link
+   https://drive.google.com/file/d/1vkd7QJzvRp1HCNJoWHud4VCi06-bhYqM/view?usp=drive_link
+   https://drive.google.com/file/d/1AQE4oVetFoohqwUAcdY3Vvrpa6oZ0N32/view?usp=drive_link
+   https://drive.google.com/file/d/1P7LahkGXJlzJocvXbl-7Wa9OyygT7_Lo/view?usp=drive_link
 
 
 </details>
