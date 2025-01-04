@@ -75,9 +75,9 @@
 
 ### 🗒️ **기능 정의서**  
 
-[![기능 정의서 1](https://drive.google.com/thumbnail?id=1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf)](https://drive.google.com/file/d/1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf/view?usp=drive_link)  
-[![기능 정의서 2](https://drive.google.com/thumbnail?id=1djflPKozEVe6wXVl7314htTsYrzCCUdG)](https://drive.google.com/file/d/1djflPKozEVe6wXVl7314htTsYrzCCUdG/view?usp=drive_link)  
-[![기능 정의서 3](https://drive.google.com/thumbnail?id=1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd)](https://drive.google.com/file/d/1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd/view?usp=drive_link)  
+[![기능 정의서 1](https://drive.google.com/uc?export=view&id=1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf)](https://drive.google.com/file/d/1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf/view?usp=drive_link)  
+[![기능 정의서 2](https://drive.google.com/uc?export=view&id=1djflPKozEVe6wXVl7314htTsYrzCCUdG)](https://drive.google.com/file/d/1djflPKozEVe6wXVl7314htTsYrzCCUdG/view?usp=drive_link)  
+[![기능 정의서 3](https://drive.google.com/uc?export=view&id=1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd)](https://drive.google.com/file/d/1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd/view?usp=drive_link)
 
 ---
 
