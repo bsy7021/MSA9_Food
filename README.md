@@ -63,10 +63,14 @@
 ---
 
 
- ### 📑 **요구사항 정의서**  
+<h3>📑 <strong>요구사항 정의서</strong></h3>
+<a href="https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link">
+  <img src="https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg" alt="요구사항 정의서 1" width="600">
+</a>
+<a href="https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link">
+  <img src="https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD" alt="요구사항 정의서 2" width="600">
+</a>
 
-[![요구사항 정의서 1](https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
-[![요구사항 정의서 2](https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD)](https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link)  
 
 ---
 
