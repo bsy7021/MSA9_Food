@@ -181,50 +181,39 @@
 
 <details>
   <summary><h3>🖥️ <strong>메인</strong></h3></summary>
-
   
+
 </details>
 
----
+
+
+
 
 <details>
-  <summary><h3>👨‍💻 <strong>사용자</strong></h3></summary>
-    
+  <summary>👨‍💻<h3><strong>상세</strong></h3></summary>
+
 
 
 </details>
 
----
+
+
 
 <details>
-  <summary><h3>🛒 <strong>구매</strong></h3></summary>
-    
+    <summary><h3>🛒사용자</h3></summary>
+
+
+
 </details>
 
 
----
 
 <details>
-  <summary><h3>📝 <strong>게시판</strong></h3></summary>
-    
+   <summary><h3>📝관리자</h3></summary>
+
 
 </details>
 
----
-
-<details>
-  <summary><h3>🗓️ <strong>운동계획표</strong></h3></summary>
-    
-
-</details>
-
----
-
-<details>
-  <summary><h3>🛠️ <strong>관리자</strong></h3></summary>
-    
-
-</details>
 
 ---
 
