@@ -35,10 +35,10 @@
 ## 👥 **팀 구성**
 | **이름**   | **담당 기능**                       |
 |-----------|----------------------------------|
-| **오승원** | 피그마 활용 화면 디자인 구성 및 User테이블 전체 C.R.U.D 구현 |
-| **김준경** | 관리자페이지. 상세페이지 디자인 및 brand테이블 전체  C.R.U.D 구현 |
+| **오승원** | 피그마 활용 화면 디자인 구성 및 User테이블 C.R.U.D 구현 |
+| **김준경** | 관리자페이지, 상세페이지 디자인 및 brand테이블 C.R.U.D 구현 |
 | **배순영** | Menu 테이블 접근  C.R.U.D 기능 구현 |
-| **유지현** | 정의서 구조정의 및 파일테이블 접근  C.R.U.D 기능 구현 |
+| **유지현** | 정의서 구조정의 및 파일테이블 접근  C.R.U.D 구현 |
 
 
 ---
@@ -89,7 +89,7 @@
 ---
 
 <details>
-# <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
+ <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
 
 **user**  
 [![테이블 정의서 1](https://drive.google.com/uc?export=view&id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
