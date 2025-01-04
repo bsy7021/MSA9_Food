@@ -69,37 +69,38 @@
    ![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)
 
 
-- [![요구사항 정의서 1](https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
-[![요구사항 정의서 2](https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD)](https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link)  
+- [![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link)  
 
 ---
 
 ### 🗒️ **기능 정의서**  
 
-[![기능 정의서 1](https://drive.google.com/thumbnail?id=1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf)](https://drive.google.com/file/d/1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf/view?usp=drive_link)  
-[![기능 정의서 2](https://drive.google.com/thumbnail?id=1djflPKozEVe6wXVl7314htTsYrzCCUdG)](https://drive.google.com/file/d/1djflPKozEVe6wXVl7314htTsYrzCCUdG/view?usp=drive_link)  
-[![기능 정의서 3](https://drive.google.com/thumbnail?id=1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd)](https://drive.google.com/file/d/1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1ohNRsB98vt3OHVW7Cc6Rpml5b1SDBDUf/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1djflPKozEVe6wXVl7314htTsYrzCCUdG/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1svrVM2bMKoJdamlojY-ITCdEgQlKyLLd/view?usp=drive_link)  
 
 ---
 
 ### 🗂️ **ERD**  
 
-[![ERD](https://drive.google.com/thumbnail?id=161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK)](https://drive.google.com/file/d/161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/161GUIDeluJ9EIEHVMmgW5Zo4eJPZcLGK/view?usp=drive_link)  
 
 ---
 
 <details>
 <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
 
-[![테이블 정의서 1](https://drive.google.com/thumbnail?id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
-[![테이블 정의서 2](https://drive.google.com/thumbnail?id=1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_)](https://drive.google.com/file/d/1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_/view?usp=drive_link)  
-[![테이블 정의서 3](https://drive.google.com/thumbnail?id=1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
-[![테이블 정의서 4](https://drive.google.com/thumbnail?id=1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG)](https://drive.google.com/file/d/1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG/view?usp=drive_link)  
-[![테이블 정의서 5](https://drive.google.com/thumbnail?id=1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa)](https://drive.google.com/file/d/1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa/view?usp=drive_link)  
-[![테이블 정의서 6](https://drive.google.com/thumbnail?id=12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j)](https://drive.google.com/file/d/12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j/view?usp=drive_link)  
-[![테이블 정의서 7](https://drive.google.com/thumbnail?id=1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF)](https://drive.google.com/file/d/1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j/view?usp=drive_link)  
+[![image](https://github.com/user-attachments/assets/6628cdef-0e84-469a-9f1a-c7409b145b70)](https://drive.google.com/file/d/1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF/view?usp=drive_link)  
 
 </details>
+
 
 ---
 
