@@ -120,7 +120,7 @@
 # 📊 **화면 설계서**
 
 <details>
-  <summary><h3>🖥️ <strong>메인</strong></h3></summary>
+  <summary><h3>🖥️<strong>메인</strong></h3></summary>
   
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1wRbaBdBxE439T64Mw8oG5yKLNDDJcbnu)](https://drive.google.com/file/d/1wRbaBdBxE439T64Mw8oG5yKLNDDJcbnu/view?usp=drive_link)  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1Eme3jNpMQl_Ky77yapQ8DmKom0KXecut)](https://drive.google.com/file/d/1Eme3jNpMQl_Ky77yapQ8DmKom0KXecut/view?usp=drive_link)  
@@ -133,7 +133,7 @@
 
 
 <details>
-  <summary>👨‍💻<h3><strong>상세</strong></h3></summary>
+  <summary>🔎<h3><strong>상세</strong></h3></summary>
 
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=122SYKekHvN5XSaoSVgh3dlSBAJTlB7no)](https://drive.google.com/file/d/122SYKekHvN5XSaoSVgh3dlSBAJTlB7no/view?usp=drive_link)  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1kiZevtvcOTYHj60VSpq5OO_qs8ISNTD2)](https://drive.google.com/file/d/1kiZevtvcOTYHj60VSpq5OO_qs8ISNTD2/view?usp=drive_link)  
@@ -145,7 +145,7 @@
 
 
 <details>
-    <summary><h3>🛒사용자</h3></summary>
+    <summary><h3>👦사용자</h3></summary>
 
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1hEbbb6bXm5P3jnqIBk2VdN2RBGX0OKSg)](https://drive.google.com/file/d/1hEbbb6bXm5P3jnqIBk2VdN2RBGX0OKSg/view?usp=drive_link)  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1g6m8V0RC84uJZpw70dTBhEQk0fUNi52l)](https://drive.google.com/file/d/1g6m8V0RC84uJZpw70dTBhEQk0fUNi52l/view?usp=drive_link)  
@@ -194,7 +194,7 @@
 
 
 <details>
-  <summary>👨‍💻<h3><strong>상세</strong></h3></summary>
+  <summary>🔎<h3><strong>상세</strong></h3></summary>
 
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1Or3ASLx1mgbCU9fEvBxT5gdWx6Jyil3D)](https://drive.google.com/file/d/1Or3ASLx1mgbCU9fEvBxT5gdWx6Jyil3D/view?usp=drive_link)  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1JeyDkKCx1X0mVAjVO4sFRAv2OHVbQwZK)](https://drive.google.com/file/d/1JeyDkKCx1X0mVAjVO4sFRAv2OHVbQwZK/view?usp=drive_link)  
@@ -209,7 +209,7 @@
 
 
 <details>
-    <summary><h3>🛒사용자</h3></summary>
+    <summary><h3>👦사용자</h3></summary>
 
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1-sCLXiJwc_ZvyF65a7-uWcNwWdO-KPaT)](https://drive.google.com/file/d/1-sCLXiJwc_ZvyF65a7-uWcNwWdO-KPaT/view?usp=drive_link)  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1nbCWt5dz_8KfEWPOkEA9YSBn527pkbqh)](https://drive.google.com/file/d/1nbCWt5dz_8KfEWPOkEA9YSBn527pkbqh/view?usp=drive_link)
