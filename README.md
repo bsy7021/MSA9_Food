@@ -91,9 +91,8 @@
 <summary><h3>📃 <strong>테이블 정의서</strong></h3></summary>  
 
 
-
 [![테이블 정의서 1](https://drive.google.com/uc?export=view&id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
-[![테이블 정의서 2](https://drive.google.com/uc?export=view&id=1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_)](https://drive.google.com/file/d/1_ebvkpS2Bbi5SWTWuROdLi3-oD-U5ud_/view?usp=drive_link)  
+[![이미지 미리보기](https://drive.google.com/uc?export=view&id=1v9MsEmHhb4oLc1gcsDbISVRhM3RG8Ltp)](https://drive.google.com/file/d/1v9MsEmHhb4oLc1gcsDbISVRhM3RG8Ltp/view?usp=drive_link)
 [![테이블 정의서 3](https://drive.google.com/uc?export=view&id=1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
 [![테이블 정의서 4](https://drive.google.com/uc?export=view&id=1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG)](https://drive.google.com/file/d/1rmWbjAB8B6WwjTKZrwIzZRPj2B9WkeAG/view?usp=drive_link)  
 [![테이블 정의서 5](https://drive.google.com/uc?export=view&id=1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa)](https://drive.google.com/file/d/1attz4cPpCKKMSp7ZXO7dLjwVyUsJTYwa/view?usp=drive_link)  
@@ -102,10 +101,6 @@
 
 </details>
 
-
----
-
-              
 
 ---
 &nbsp;
