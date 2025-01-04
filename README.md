@@ -63,14 +63,11 @@
 ---
 
 
-<h3>📑 <strong>요구사항 정의서</strong></h3>
-<a href="https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link">
-  <img src="https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg" alt="요구사항 정의서 1" width="600">
-</a>
-<a href="https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link">
-  <img src="https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD" alt="요구사항 정의서 2" width="600">
-</a>
 
+### 📑 **요구사항 정의서**  
+
+- [![요구사항 정의서 1](https://drive.google.com/thumbnail?id=1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg)](https://drive.google.com/file/d/1YeDWncQ7W-HmLnS_psmvUAy7rhHwliTg/view?usp=drive_link)  
+[![요구사항 정의서 2](https://drive.google.com/thumbnail?id=1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD)](https://drive.google.com/file/d/1qhp7uf7t1owttUhcoPe-qzWL3MKxDCzD/view?usp=drive_link)  
 
 ---
 
@@ -99,7 +96,7 @@
 [![테이블 정의서 6](https://drive.google.com/thumbnail?id=12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j)](https://drive.google.com/file/d/12Fcm9y7xYVzwtkQ3st4jlXR7XT0JhH_j/view?usp=drive_link)  
 [![테이블 정의서 7](https://drive.google.com/thumbnail?id=1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF)](https://drive.google.com/file/d/1PTQvalPLLBoxrn6mzb4F3VTigzLX8ehF/view?usp=drive_link)  
 
-</details>  
+</details>
 
 ---
 
