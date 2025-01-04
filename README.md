@@ -47,7 +47,7 @@
 ###  **2024-10-21 ~ 2024-10-30**
 
 ---
- ## 🚀 **프로젝트 개발 절차**
+ <summary><h2>🚀 <strong>프로젝트 개발 절차</strong></h2></summary>
 ![개발절차](https://chestnut-blinker-ca6.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F8cd794c0-c633-4008-b289-af6deeea8c4d%2F5ba792e6-8349-4ad1-91fc-b9ac85dffce9%2Fimage.png?table=block&id=169902bd-b12f-80d6-a723-daccfeff7303&spaceId=8cd794c0-c633-4008-b289-af6deeea8c4d&width=1090&userId=&cache=v2)
 
 ---
