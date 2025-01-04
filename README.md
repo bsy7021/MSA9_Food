@@ -95,6 +95,7 @@
 [![테이블 정의서 1](https://drive.google.com/uc?export=view&id=1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq)](https://drive.google.com/file/d/1TOEdX7o-dJH0czqALvUSH33-YRvn4vYq/view?usp=drive_link)  
 **review**  
 [![이미지 미리보기](https://drive.google.com/uc?export=view&id=1v9MsEmHhb4oLc1gcsDbISVRhM3RG8Ltp)](https://drive.google.com/file/d/1v9MsEmHhb4oLc1gcsDbISVRhM3RG8Ltp/view?usp=drive_link)
+
 **brand**  
 [![테이블 정의서 3](https://drive.google.com/uc?export=view&id=1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC)](https://drive.google.com/file/d/1Y8FflHKcoZgovkWilTFnCbTYFpSffTwC/view?usp=drive_link)  
 **reservation**  
